@@ -23,7 +23,7 @@
             <h4 class="fonte14 txt-c mg-b-1">Promoção</h4>
         </div>
       <div class="box-8 flex justify-center">
-        <img src="../../lib/img/notebook.png" alt="" >
+        <img src="../../lib/img/notebook.png" alt="" class="mg-auto">
       </div>
        <div class="box-12 mg-t-2"> <p class="fonte14">Notebook</p> <div class="divider"></div></div>
        <div class="box-12 mg-t-1 mg-b-1"><p class="fonte18 poppins-black txt-c">R$ 1250.00</p></div>

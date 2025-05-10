@@ -17,3 +17,7 @@ footer{
     height: 60px;
     
 }
+.car-table{
+    width: 100%;
+    border-collapse: collapse;
+}
